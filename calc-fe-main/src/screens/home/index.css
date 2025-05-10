@@ -1,0 +1,9 @@
+/* Add this CSS if you haven't already */
+.latex-content {
+  white-space: pre-line;
+  word-break: break-word;
+  line-height: 1.6;
+  max-width: 90vw;
+  padding: 8px 12px;
+}
+
